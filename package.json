@@ -1,0 +1,15 @@
+{
+  "name": "promises",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:peterjuras/promises.git",
+  "author": "Peter Juras <me@peterjuras.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "cli-progress": "^3.12.0",
+    "express": "^4.18.2",
+    "lodash": "^4.17.21",
+    "promise.bar": "^0.1.5"
+  }
+}
